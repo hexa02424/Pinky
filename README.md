@@ -70,7 +70,7 @@ bash <(curl -L https://t.ly/tHxh)
 ### NO ERROR DEPLOY
             
 ```
-  for easy deploy fork this repo & add the given link in your readme by changing repository link - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=hexa02424)
+  for easy deploy fork this repo & add the given link in your readme by changing repository link - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hexa02424?tab=repositories)
 ```
 ## F.A.Q
 Answer a few frequently asked questions;
